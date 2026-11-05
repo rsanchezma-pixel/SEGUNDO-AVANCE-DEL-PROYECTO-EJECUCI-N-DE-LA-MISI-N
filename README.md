@@ -1,4 +1,4 @@
-# SEGUNDO-AVANCE-DEL-PROYECTO-EJECUCI-N-DE-LA-MISI-N
+# SEGUNDO-AVANCE-DEL-PROYECTO-EJECUCIÓN-DE-LA-MISIÓN
 Descripción del proyecto: Misión Órbita
 
 El proyecto Misión Órbita consiste en desarrollar un simulador básico de exploración espacial utilizando el lenguaje de programación Python. Su objetivo es aplicar los conocimientos adquiridos en el curso Principios de Programación 1 mediante la creación de algoritmos que permitan planificar, ejecutar y evaluar misiones espaciales.
