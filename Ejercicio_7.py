@@ -1,8 +1,8 @@
 # ============================================================
 # Archivo: ejercicio7_exploracion.py
-# Curso: SOFT-01 Principios de Programación 1 - Sección: [indicar]
-# Integrantes: [nombre del estudiante]
-# Fecha: [dd/mm/2026]    Versión: 1.0
+# Curso: SOFT-01 Principios de Programación 1 - Sección: [1]
+# Integrantes: [RONY SANCHEZ MASIS]
+# Fecha: [06/11/2026]    Versión: 1.0
 # Descripción: Gestiona actividades científicas de una misión
 # espacial y calcula los recursos y puntos restantes.
 # ============================================================
