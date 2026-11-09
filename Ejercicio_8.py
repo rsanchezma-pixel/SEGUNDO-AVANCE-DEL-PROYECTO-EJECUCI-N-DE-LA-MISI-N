@@ -1,7 +1,7 @@
 # ============================================================
 # Archivo: ejercicio8_regreso.py
 # Curso: SOFT-01 Principios de Programación 1
-# Sección: [indicar]
+# Sección: [1]
 # Integrante: [RONY SANCHEZ MASIS]
 # Fecha: 07/11/2026
 # Versión: 1.0
